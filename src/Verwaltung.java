@@ -15,7 +15,7 @@ public class Verwaltung {
             System.out.println("== HAUPTMENÜ ==");
             System.out.println("[1] Ceaser Verschluesseln");
             System.out.println("[2] Ceaser entschluesseln");
-            System.out.println("[3] Viginere Verschuesseln");
+
             System.out.println("[4] Viginere Entschuesseln");
             System.out.println("[0] Beenden");
             int option = scanner.nextInt();
