@@ -28,6 +28,20 @@
     "onboarding.tips.debug.path": "C:/Users/thaqime/IdeaProjects/Kryptomat2/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Verwaltung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verwaltung" />
+      <module name="Kryptomat2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Verwaltung" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
