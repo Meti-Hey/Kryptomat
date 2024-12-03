@@ -5,6 +5,7 @@ public class Verwaltung {
     private Scanner scanner ;
     private Viginere viginere;
     private Ceasar ceaser;
+    private Polybius polybius;
 
     public static void main(String[] args){new Verwaltung();}
 
