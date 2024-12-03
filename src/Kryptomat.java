@@ -8,7 +8,7 @@ public abstract class  Kryptomat {
     //Konstruktoren!!
     public Kryptomat() {
         kt ="";
-        gt="";
+        gt ="";
     }
 
     //verschlüsselt den Kt

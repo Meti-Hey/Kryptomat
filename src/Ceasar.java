@@ -2,9 +2,9 @@ public class Ceasar extends Kryptomat{
     //Schluesselattribut
     private int S;
 
-    //Der Konstruktore hat keinen Rückgabetyp!!!!!!!!
+    //Der Konstruktore hat keinen Rückgabetyp!
     public Ceasar(){
-        //Wenn die Attribute initalisiert werden behbet man den null Wert anzeige
+        //Wenn die Attribute initalisiert werden behebet man den null Wert anzeige
         super();
         S=0;
     }
